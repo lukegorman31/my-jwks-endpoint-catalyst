@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "kid": "your-key-id",
+      "n": "YOUR_PUBLIC_KEY_MODULUS",
+      "e": "AQAB"
+    }
+  ]
+}
